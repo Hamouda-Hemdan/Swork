@@ -146,6 +146,4 @@ Access the full API documentation at `/swagger` when the backend is running.
 - React DevTools recommended for debugging
 - ESLint configured for code quality
 
-## License
 
-This project is licensed under the MIT License.
