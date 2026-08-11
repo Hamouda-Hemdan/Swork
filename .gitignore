@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+dist/
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.lock.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+appsettings.Development.json
+
+# Build outputs
+*.dll
+*.exe
